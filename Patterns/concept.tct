@@ -1,0 +1,15 @@
+patterns are based on the nested loops which is denoted by the no of columns and no of rows
+
+so we should familiar with the loops and nested loops
+
+steps 
+1 : nested loops
+    outer loops - rows
+    inner loops - columns
+2 : connect the columns to the rows with a logic
+
+3 : print the required things in inner loops
+
+4 : observe the symmetry between patterns (optional)
+
+

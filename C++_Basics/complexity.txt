@@ -1,0 +1,6 @@
+complexity which is depend on the system based on the system we determine the time and space complexity 
+as we code for a problem the amount of space the used data structure taking for the code and also amount of space taking and amount of time taking to execute the program.
+
+basically we denote the complexity as Big Oh (O) - worst time complexity, Big Omega which is used to denote the average time complexity and Big Theta which is used to determine the least time complexity.
+
+basically it depends on the no of iteration executed by the program

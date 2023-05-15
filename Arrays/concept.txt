@@ -1,0 +1,14 @@
+Array : it is a data structure to store a similar type of data.
+
+syntax: int arr[] = {1, 2, 3};
+        int arr[5];
+
+if we declare the array inside the main function the array contains all the empty places with certain garbage values and if we declare outside the main function it is initialized with zeros
+
+The maximum size of the array can be declared is 10^6 inside the main function. If is is globally its size is 10^7
+
+Accessing the elements using indexing
+indexing starts from 0 to n-1 where n is the size of the array.
+
+The zeroth index location is stored at a random location but the next to the 0th index is located next to it with based on the size of the datatype which is used to declare the array.
+
