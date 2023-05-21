@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/chandu/OneDrive/Desktop/programms/CPP/C++_Basics",
-      "program": "c:/Users/chandu/OneDrive/Desktop/programms/CPP/C++_Basics/build/Debug/outDebug",
+      "cwd": "c:/Users/chandu/OneDrive/Desktop/programms/CPP/Arrays",
+      "program": "c:/Users/chandu/OneDrive/Desktop/programms/CPP/Arrays/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

@@ -70,7 +70,7 @@ void optimal(int arr[], int n)
     }
     if (j == -1)
     {
-        cout << "Optimal output :" << endl;
+        cout << "No Zeros present in the array and Optimal output :" << endl;
         print(arr, n);
         cout << endl;
         return;

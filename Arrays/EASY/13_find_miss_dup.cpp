@@ -56,6 +56,7 @@ void brute(int arr[], int n){
         }
         else if(arr[i] != i+1){
             cout<<"Missing number is "<<i+1<<endl;
+            break;
         }
     }
 }
